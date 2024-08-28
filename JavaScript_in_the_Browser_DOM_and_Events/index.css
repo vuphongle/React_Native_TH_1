@@ -1,0 +1,33 @@
+body {
+    background-color: #222;
+    color: #eee;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.number {
+    width: 15rem;
+    height: 6rem;
+    font-size: 6rem;
+    margin: 2rem auto;
+    background-color: #eee;
+    color: #222;
+}
+
+.message {
+    font-size: 2rem;
+}
+
+.score {
+    font-size: 1.5rem;
+}
+
+.guess {
+    font-size: 2rem;
+    width: 3rem;
+}
+
+.again {
+    font-size: 2rem;
+    margin-top: 2rem;
+}
